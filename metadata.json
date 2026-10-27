@@ -1,0 +1,6 @@
+{
+  "name": "분수 캡슐 팩토리",
+  "description": "회전하는 캡슐 트랙에서 분수 덧셈과 뺄셈의 정답 캡슐을 크레인으로 낚는 2D 아케이드 게임",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
